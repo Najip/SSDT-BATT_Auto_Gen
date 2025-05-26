@@ -6,7 +6,7 @@ A Python script to automatically generate an SSDT-BATT from your DSDT.
 
 ---
 
-> **I continue this project since ECEnabler only supports Field Unit objects larger than 8 bit (1 byte) in EmbeddedControl regions but not in SystemMemory OperationRegions. I have submitted an issue here: https://github.com/1Revenger1/ECEnabler/issues/34, but the developer has indicated it’s not planned.**
+> **I continue this project since `ECEnabler` only supports Field Unit objects larger than 8 bit (1 byte) for `EmbeddedControl` regions but not in `SystemMemory` OperationRegions. This script still useful for `SystemMemory` based EC found on some Laptops.**
 
 ---
 
