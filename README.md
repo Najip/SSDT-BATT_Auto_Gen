@@ -1,4 +1,4 @@
-[English](./README_en.md) | [Original Readme : 中文](./README.md)
+**English** | [Original Readme : 中文](./README_cn.md)
 
 # SSDT-BATT_Auto_Gen
 
