@@ -1,3 +1,4 @@
+[English](https://github.com/Najip/SSDT-BATT_Auto_Gen) | **Original Readme : 中文**
 # SSDT-BATT_Auto_Gen
 一个自动从 DSDT 中生成 SSDT-BATT 的 python 脚本
 
